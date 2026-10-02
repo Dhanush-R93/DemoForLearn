@@ -1,2 +1,2 @@
 This is the First file.
-Edited from Branch file.
+Edited from Branch file and also modified from local the same line.
